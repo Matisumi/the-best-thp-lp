@@ -49,8 +49,7 @@ class Tweetbot
               "apprendre codage informatique Ruby on Rails",
               "apprendre web HTML CSS",
               "apprendre codage web",
-              "apprendre code web",
-           	  "apprendre à coder"]
+              "apprendre code web"]
 
 		puts "Listening for \n #{topics}"
 		puts "--------------------------"
