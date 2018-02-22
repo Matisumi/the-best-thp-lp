@@ -6,9 +6,16 @@ require 'io/console'   #required so you can type your password in a blind field
 def get_the_email_html  #this methode returns a string of a html code with the name of the town given in argument in it
 
 	return "<h1>Bonjour</h1>
-					<p>Je m'appelle Mati, je suis élève à une formation de code gratuite, ouverte à tous, sans restriction géographique, ni restriction de niveau.<br> La formation s'appelle The Hacking Project (http://thehackingproject.org/).<br> Nous apprenons l'informatique via la méthode du peer-learning : nous faisons des projets concrets qui nous sont assignés tous les jours (par exemple envoyer des mails via ruby), sur lesquel nous planchons en petites équipes autonomes. Le projet du jour est d'envoyer des emails à nos élus locaux pour qu'ils nous aident à faire de The Hacking Project un nouveau format d'éducation gratuite.</p>
-					<p>Nous vous contactons pour vous parler du projet, et vous dire que vous pouvez ouvrir une cellule à pomme, où vous pouvez former gratuitement 6 personnes (ou plus), qu'elles soient débutantes, ou confirmées.<br> Le modèle d'éducation de The Hacking Project n'a pas de limite en terme de nombre de moussaillons (c'est comme cela que l'on appelle les élèves), donc nous serions ravis de travailler avec !</p>
-					<p><strong>Charles, co-fondateur de The Hacking Project</strong> pourra répondre à toutes vos questions : 06.95.46.60.80</p>"
+					
+    <p>
+        <strong>Bonjour, nous sommes des jeunes développeur web, de la formation The Hacking Project, nous vous sollicitons afin de promouvoir  les formations que cette organisme propose, je vous prie de trouver ci join un lien vers notre landing page.<br>http://bit.ly/2oidxFY<br>Merci d'avoir pris le temps de nous lire<br><br>Veuillez accepter nos respectueuses salutation   </strong> </p>
+					
+<p>The Hacking Project est une formation qui propose des cursus gratuits, professionnalisants, à plein temps, ouverts à tous, et sans pré-requis. Nous utilisons le modèle du peer-learning (groupes autonomes, apprentissage par projets concrets, grande communauté) pour émuler un esprit de corps et stimuler le cerveau vers un apprentissage ludique. Et cela nous permet d'être gratuits et accessibles à tous.</p>
+					<p>
+                        <strong>Charles Dacquay, co-fondateur de The Hacking Project</strong> pourra répondre à toutes vos questions : 06.95.46.60.80
+                    </p>
+                    <p>
+                        <strong>Félix Gaudé, co-fondateur de The Hacking Project</strong> pourra répondre à toutes vos questions : 06 28 01 33 40</p>"
 
 end
 
