@@ -27,7 +27,6 @@ class Tweetbot
 
 		topics = ["Formation web",
               "informatique",
-              "the hacking project",
               "formation programmation",
               "formation code",
               "formation codage",
